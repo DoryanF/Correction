@@ -1,0 +1,10 @@
+{
+    "name": "dorya/blog",
+    "autoload": {
+        "psr-4": {
+            "model\\": "src/Model/",
+            "dao\\": "src/Dao/"
+        }
+    },
+    "require": {}
+}
